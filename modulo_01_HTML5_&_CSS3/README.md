@@ -10,6 +10,6 @@
 
   
 
-  ### C. Horária
+  ### Carga Horária
 
   * 40 Horas
