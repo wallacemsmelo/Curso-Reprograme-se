@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <title>Questão 08</title>
+</head>
+
+<body>
+    <div class="container my-3">
+        <p><a href="index.html">Voltar ao Índice</a></p>
+        <h1 class="display-2">Questão 08</h1>
+        <p class="lead">Usando somente estilos baseados em classes do Bootstrap 5, aprimore o formulário da questão 7 para que todos os seus campos fiquem com títulos flutuantes.</p>
+        <hr>
+    </div>
+    <!-- FAZER AQUI -->
+    <div class="container">
+        <div class="row justify-content-lg-center mb-3">
+            <div class="col-lg-8 col-xl-6">
+                <h1 class="display-5">Cadastro de Cliente</h1>
+                <hr>
+                <form method="post">
+                    <div class="row mb-3 ">
+                        <div class="col form-floating">
+                            <input type="text" name="Nome" id="nome" class="form-control ps-1" required placeholder=" ">
+                            <label for="nome" class="form-label ms-1">Nome Completo</label>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-12 col-xl-3 mb-sm-3 mb-3 form-floating">
+                            <input type="text" name="CPF" id="cpf" class="form-control ps-1" placeholder=" ">
+                            <label for="cpf" class="form-label ms-1">CPF</label>
+                        </div>
+                        <div class="col-lg-12 col-xl-4 mb-sm-3 mb-3 form-floating">
+                            <input type="date" name="DatadeNascimento" id="dataNascimento " class="form-control ps-1">
+                            <label for="dataNascimento" class="form-label text-nowrap ms-1">Data de Nascimento</label>
+                        </div>
+                        <div class="col-lg-12 col-xl-5 form-floating mb-sm-3 mb-3">
+                            <select name="" id="genero" class="form-select ps-1" placeholder=" ">
+                                <option value="" selected>Selecione o Gênero</option>
+                                <option value="m">Masculino</option>
+                                <option value="f">Feminino</option>
+                                <option value="o">Outro</option>
+                            </select>
+                            <label for="genero" class="form-label ms-1">Gênero</label>
+                        </div>
+                    </div>
+                    <div class="row mb-3">
+                        <div class="col form-floating">
+                            <textarea name="Endereço" id="endereco" class="form-control ps-1" cols="110"
+                                rows="2"></textarea>
+                            <label for="endereco" class="form-label ms-1">Endereço Completo</label>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col">
+                            <button type="submit" class="btn btn-primary">Salvar</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
