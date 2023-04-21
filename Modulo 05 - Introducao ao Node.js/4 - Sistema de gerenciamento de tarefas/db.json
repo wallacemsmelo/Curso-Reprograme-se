@@ -1,0 +1,39 @@
+{
+  "tarefas": [
+    {
+      "id": "01",
+      "descricao": "Brincar com minha filha",
+      "status": "concluida"
+    },
+    {
+      "id": "03",
+      "descricao": "Ir a praia com a família",
+      "status": "concluida"
+    },
+    {
+      "id": "07",
+      "descricao": "Ir ao Supermercado",
+      "status": "concluida"
+    },
+    {
+      "id": "11",
+      "descricao": "Ir ao Cinema",
+      "status": "concluida"
+    },
+    {
+      "id": "02",
+      "descricao": "Almoço de dias dos pais",
+      "status": "concluida"
+    },
+    {
+      "id": "13",
+      "descricao": "Fazer trabalho do reprograme-se",
+      "status": "concluida"
+    },
+    {
+      "id": "06",
+      "descricao": "Planejar a viagem de férias",
+      "status": "pendente"
+    }
+  ]
+}

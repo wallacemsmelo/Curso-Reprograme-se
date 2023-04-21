@@ -1,0 +1,7 @@
+/* ex001.js - Com base nas informações abaixo sobre o rodízio de veículos, faça um programa em JavaScript, utilizando o Node.js, que receba via linha de comando a placa de um determinado veículo e, baseado no dia da semana em que o programa está sendo executado, determine se esse veículo pode ou não estar em circulação. Para obter o dia da semana, pesquise sobre a classe Date do JavaScript. */
+
+/* ex002.js - Faça um programa em JavaScript, utilizando o Node.js que receba dois números via terminal e faça a divisão do primeiro com o segundo número. Se o segundo número for 0, o programa não pode fazer o cálculo e deve avisar ao usuário que houve o erro "Divisão por zero". Para isso, você deve usar o tratamento de exceções (try...catch) para capturar o erro e informar ao usuário.*/
+
+/* ex003.js - Faça um programa em JavaScript utilizando o Node.js que receba, via linha de comando, uma data no formato DD/MM/AAAA, e em seguida escreva essa data por extenso. Por exemplo, se a entrada for "11/01/2023", a saída deve ser "11 de janeiro de 2023".*/
+
+/* ex004.js - Escreva um arquivo JSON manualmente com os seguintes dados de pessoas fictícias: Nome completo, Endereço, Nacionalidade, Idade e Sexo. O arquivo deve ter os dados de, no mínimo, 10 pessoas. Após isso, em um programa feito em JavaScript utilizando o Node.js, converta esse arquivo JSON que você acabou de criar em um array e imprima-o na tela.*/
