@@ -6,9 +6,6 @@ Elabore um código no arquivo script.js para ler o preço de cada um dos produto
   
   ![Exemplo](assets/F1-M4-Sem01-Praticas-Exemplo.png)
 
-  ## Grade de correção
-  ![Grade](assets/F1-M4-Sem01-Praticas-Grade.png)
-
   ## Objetivos de aprendizagem
   1. Selecionar elementos utilizando JavaScript
   2. Escrever no documento utilizando JavaScript

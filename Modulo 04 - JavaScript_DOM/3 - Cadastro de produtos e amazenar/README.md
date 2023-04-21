@@ -20,9 +20,6 @@ Pelo menos, uma validação customizada deve ser realizada. No exemplo de códig
   
 ![Exemplo](assets/F1-M4-Sem03-Praticas-Exemplo.gif)
 
-## Grade de correção
-![Grade](assets/F1-M4-Sem03-Praticas-Grade.png)
-
 ## Objetivos de aprendizagem
 1. Validação de formulários com JavaScript
 2. Armazenamento de dados utilizando localstorage

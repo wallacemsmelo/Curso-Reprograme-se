@@ -11,9 +11,6 @@ No seu código você deve implementar funções para:
   
 ![Exemplo](assets/F1-M4-Sem02-Praticas-Exemplo.gif)
 
-## Grade de correção
-![Grade](assets/F1-M4-Sem02-Praticas-Grade.png)
-
 ## Objetivos de aprendizagem
 1. Utilizar manipuladores de eventos JavaScript DOM
   
